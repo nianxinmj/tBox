@@ -1,17 +1,14 @@
 {
 	"sites": [{
-		"key": "82mao",
-		"name": "天龙影院",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "VIP影片,公告,动漫频道,海外动漫,国产动漫,日韩动漫,欧美动漫,港台动漫,综艺小品,微电影,电视剧场,电影频道,内地综艺,港台综艺,日韩综艺,欧美综艺",
-		"firstClass": "国产剧,香港剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://www.82mao.com/api.php/provide/vod/",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
+		"name": "黑木耳解析",
+		"type": 0,
+		"url": "https://hoplayer.com/index.html?url=",
+		"ext": {
+			"flag": ["heimuer"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
 	}],
-	"flags": ["82mao"]
+	"flags": ["黑木耳解析"]
 }
