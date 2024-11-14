@@ -405,19 +405,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "xiaomaomi",
-		"name": "小猫咪资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "短剧,其他,成人,小破站,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
 		"key": "1080zyku",
 		"name": "1080资源",
 		"type": 1,
